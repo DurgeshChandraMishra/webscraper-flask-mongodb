@@ -5423,3 +5423,19 @@ INFO:root:log my final result [{'Product': 'iphone13', 'Name': 'Flipkart Custome
 INFO:werkzeug:172.18.0.2 - - [23/Feb/2023 19:59:56] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [23/Feb/2023 19:59:56] "[33mGET /style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [23/Feb/2023 19:59:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [24/Feb/2023 12:12:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Feb/2023 12:12:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Feb/2023 12:12:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'fridge', 'Name': 'farooqkhan pattan', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Best in the price range. Nice finish. Delivery and installation done on time..spacious and perfect for 2 people. If u are looking for the same ..just go for it..'}, {'Product': 'fridge', 'Name': 'SACHIN KUMAR', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'size is suitable for small family and colour is awesome. using it for one month now everything is good and cooling is excellent. Best in the price range. Nice finishing. delevery on the time......😊😊😊'}, {'Product': 'fridge', 'Name': 'Dinesh G', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Perfect fridge from a small family, gives you excellent cooling.Enough space to accommodate vegetables and fruits for a week, keeps them fresh thought-out.Water bottle space can fit 2 litre bottles, you can keep your child drink bottles without worrying about space.Overall good buy!!!!!!!'}, {'Product': 'fridge', 'Name': 'suyog Kulkarni', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': 'This fridge is good but as compare to Haier, Haier fridge is better as well as cheaper than this. Samsung Fridge has noise and internally small'}, {'Product': 'fridge', 'Name': 'Manjit  Kaur', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Very nice!!'}, {'Product': 'fridge', 'Name': 'Afreen  Anjum', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Super awesome, thanks filpcart.....'}, {'Product': 'fridge', 'Name': 'Deepak Manna', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Nice product'}, {'Product': 'fridge', 'Name': 'Sadanand Bharti', 'Rating': '1', 'CommentHead': 'Worst experience ever!', 'Comment': 'Very bad service by you, I want to exchange a 230 liter but not option provide by you, your customer service said resolve issue but still pending, please exchange a big size it is small and not suitable for me'}, {'Product': 'fridge', 'Name': 'AMIT KUMAR LODHI', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very nice'}, {'Product': 'fridge', 'Name': 'Jaykishan Upadhyay', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': 'Nice'}, {'Product': 'fridge', 'Name': 'Jaykishan Upadhyay', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Nice'}]
+INFO:werkzeug:172.18.0.2 - - [24/Feb/2023 12:13:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Feb/2023 12:13:18] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Feb/2023 12:13:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
